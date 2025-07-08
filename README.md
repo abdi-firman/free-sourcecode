@@ -20,14 +20,11 @@ This repository is dedicated to **free and open-source code**, available for any
 The "Hallo Abdi" team is committed to supporting the educational community. We believe in the power of knowledge-sharing and the importance of open-source contributions for the growth of all.
 
 ### 🎥 Video Preview:
-Here’s a preview of the animation you can watch on YouTube:
+Here’s a preview of the animation. Click the image to watch the full video on YouTube:
 
-<div style="max-width: 1280px; margin: 0 auto;">
-  <iframe width="100%" height="480" src="https://www.youtube.com/embed/R8lHaEZYpCU?si=k8-4FEUXw7KbmBKO" 
-  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+[![Watch the animation on YouTube](https://img.youtube.com/vi/R8lHaEZYpCU/0.jpg)](https://www.youtube.com/watch?v=R8lHaEZYpCU)
 
-> The video will adjust its size according to your screen. Enjoy!
+> Click the thumbnail to watch the full video.
 
 ### 🔧 Get Started:
 Clone this repository to begin your educational journey with the code available here.
