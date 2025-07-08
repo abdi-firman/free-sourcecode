@@ -1,4 +1,4 @@
-# Free Sources Code
+[# Free Sources Code
 **Presented by "Hallo Abdi"**
 
 Welcome to **Free Sources Code** – a collection of educational resources designed to empower learners and developers alike. 
@@ -23,4 +23,5 @@ The "Hallo Abdi" team is committed to supporting the educational community. We b
 Clone this repository to begin your educational journey with the code available here.
 
 ```bash
-git clone https://github.com/your-username/Free-Sources-Code.git
+git clone https://github.com/abdi-firman/free-sourcescode.git
+](https://github.com/abdi-firman/free-sourcecode/)
