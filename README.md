@@ -1,10 +1,10 @@
 # Free Sources Code
 **Presented by "Hallo Abdi"**
 
-Welcome to **Free Sources Code** – a collection of educational resources designed to empower learners and developers alike. 
+Welcome to **Free Sources Code** – a collection of educational resources designed to empower learners and developers alike.
 
 ### 🎓 What is this repository?
-This repository is dedicated to **free and open-source code**, available for anyone to **study, modify, and use** for educational purposes. Whether you're learning or teaching, the code is here to help you grow and explore. 
+This repository is dedicated to **free and open-source code**, available for anyone to **study, modify, and use** for educational purposes. Whether you're learning or teaching, the code is here to help you grow and explore.
 
 ### 🔓 Terms of Use:
 - **Free to Use:** Feel free to dive in and explore the code. It's here for you to experiment with, learn from, and adapt as per your needs.
@@ -19,14 +19,15 @@ This repository is dedicated to **free and open-source code**, available for any
 ### 💡 Why "Hallo Abdi"?
 The "Hallo Abdi" team is committed to supporting the educational community. We believe in the power of knowledge-sharing and the importance of open-source contributions for the growth of all.
 
-### 🎥 Animation Preview:
+### 🎥 Video Preview:
 Here’s a preview of the animation you can watch on YouTube:
 
-[![Watch the animation on YouTube](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+<div style="max-width: 1280px; margin: 0 auto;">
+  <iframe width="100%" height="480" src="https://www.youtube.com/embed/R8lHaEZYpCU?si=k8-4FEUXw7KbmBKO" 
+  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
-> Click the image to watch the animation video on YouTube.
-
-Replace `VIDEO_ID` with the actual YouTube video ID for the video you want to embed.
+> The video will adjust its size according to your screen. Enjoy!
 
 ### 🔧 Get Started:
 Clone this repository to begin your educational journey with the code available here.
