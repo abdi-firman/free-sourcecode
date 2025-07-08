@@ -20,15 +20,13 @@ This repository is dedicated to **free and open-source code**, available for any
 The "Hallo Abdi" team is committed to supporting the educational community. We believe in the power of knowledge-sharing and the importance of open-source contributions for the growth of all.
 
 ### 🎥 Animation Preview:
-Here’s a preview animation for better understanding:
+Here’s a preview of the animation you can watch on YouTube:
 
-<details>
-  <summary>Click to see animation</summary>
-  <picture>
-    <source media="(max-width: 1280px)" srcset="https://path-to-your-animation.gif">
-    <img src="https://path-to-your-animation.gif" alt="Free Source Code Animation" style="max-width:100%; height:auto;" autoplay loop>
-  </picture>
-</details>
+[![Watch the animation on YouTube](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+> Click the image to watch the animation video on YouTube.
+
+Replace `VIDEO_ID` with the actual YouTube video ID for the video you want to embed.
 
 ### 🔧 Get Started:
 Clone this repository to begin your educational journey with the code available here.
