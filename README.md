@@ -1,4 +1,4 @@
-[# Free Sources Code
+# Free Sources Code
 **Presented by "Hallo Abdi"**
 
 Welcome to **Free Sources Code** – a collection of educational resources designed to empower learners and developers alike. 
@@ -19,9 +19,19 @@ This repository is dedicated to **free and open-source code**, available for any
 ### 💡 Why "Hallo Abdi"?
 The "Hallo Abdi" team is committed to supporting the educational community. We believe in the power of knowledge-sharing and the importance of open-source contributions for the growth of all.
 
+### 🎥 Animation Preview:
+Here’s a preview animation for better understanding:
+
+<details>
+  <summary>Click to see animation</summary>
+  <picture>
+    <source media="(max-width: 1280px)" srcset="https://path-to-your-animation.gif">
+    <img src="https://path-to-your-animation.gif" alt="Free Source Code Animation" style="max-width:100%; height:auto;" autoplay loop>
+  </picture>
+</details>
+
 ### 🔧 Get Started:
 Clone this repository to begin your educational journey with the code available here.
 
 ```bash
-git clone https://github.com/abdi-firman/free-sourcescode.git
-](https://github.com/abdi-firman/free-sourcecode/)
+git clone https://github.com/abdi-firman/free-sourcecode.git
